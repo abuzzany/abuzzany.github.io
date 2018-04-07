@@ -1,0 +1,44 @@
+body {
+  font-family: 'Source Code Pro', monospace;
+  font-size: 0.850em;
+  color: #f5f6fa;
+  background-color: black;
+}
+
+article[role=main]{
+  width: 70%;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.ls-cmd {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.directory-link {
+  display: inline;
+  color: #3498db;
+}
+
+.directory-link > a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.man-content {
+  padding-left: 10%;
+}
+
+.man-title {
+  text-align: center;
+}
+
+.branch-name-text-style {
+  color: #d63031;
+}
+
+.user-name-text-style {
+  color: #81ecec;
+}
