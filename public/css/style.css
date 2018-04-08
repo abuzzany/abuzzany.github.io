@@ -27,6 +27,17 @@ article[role=main]{
   text-decoration: inherit;
 }
 
+.man-contact{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.man-contact > li > a{
+  color: inherit;
+  text-decoration: inherit;
+}
+
 .man-content {
   padding-left: 10%;
 }
@@ -41,4 +52,8 @@ article[role=main]{
 
 .user-name-text-style {
   color: #81ecec;
+}
+
+.git-name {
+  color: #0984e3;
 }
