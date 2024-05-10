@@ -1,17 +1,16 @@
-# Project Title
+# Angel Buzany's Blog ✨
 
-A brief description of your project.
+Welcome to my personal blog, it is not the best but it works (I guess 🤞🏼).
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
 
-| Note: Before start, make sure you have installed Ruby, if not, I recommend you to install it using [rbevv](https://github.com/rbenv/rbenv)
+| Note: Before start, make sure you have installed Ruby, if not, I recommend you to install it using [rbevv](https://github.com/rbenv/rbenv).
 
 Install the project dependencies:
 
@@ -21,12 +20,13 @@ bundle install
 
 ## Usage
 
-Examples and instructions on how to use your project.
+This project is based on [Sinatra](https://sinatrarb.com/), after install the dependencies just run:
 
-## Contributing
+```bash
+ruby app.rb
+```
 
-Guidelines for contributing to your project.
+and open your web browser and visit `http://localhost:4567` to see application in action.
 
 ## License
-
-Information about the license for your project.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
