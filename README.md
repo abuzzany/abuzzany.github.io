@@ -20,13 +20,13 @@ bundle install
 
 ## Usage
 
-This project is based on [Sinatra](https://sinatrarb.com/), after install the dependencies just run:
+This project was build with on [Jekyll](https://jekyllrb.com/), after install the dependencies just run:
 
 ```bash
-ruby app.rb
+bundle exec jekyll serve
 ```
 
-and open your web browser and visit `http://localhost:4567` to see application in action.
+and open your web browser and visit `http://localhost:4000` to see application in action.
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
