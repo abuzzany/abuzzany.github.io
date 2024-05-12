@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+gem 'webrick'
+gem 'csv'
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
